@@ -69,7 +69,7 @@ municipal_hitl/
 │   ├── database.py           # Schema and seeding
 │   ├── context.py            # Shared context
 │   ├── formation_agent.py    # Agent 1
-│   ├── governance_agent.py   # Agent 2 (AGENTIC with HITL)
+│   ├── governance_agent.py   # Agent 2 
 │   ├── scheduling_agent.py   # Agent 3
 │   └── pipeline.py           # Pipeline orchestration
 └── frontend/
