@@ -7,7 +7,7 @@ A Human-in-the-Loop municipal project management system using OpenAI Agents SDK.
 This system demonstrates **agentic behavior** with a human approval gateway:
 
 1. **Formation Agent** - Converts citizen issues into costed project proposals
-2. **Governance Agent** - Makes policy decisions (AGENTIC - decides, not advises)
+2. **Governance Agent** - Makes policy decisions 
 3. **Human Approval Gateway** - Pauses for human review on high-cost/risk items
 4. **Scheduling Agent** - Allocates crews and schedules approved projects
 
